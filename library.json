@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "fiction",
+        "read": true
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "dystopian",
+        "read": false
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "romance",
+        "read": true
+    },
+    {
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "fiction",
+        "read": false
+    },
+    {
+        "title": "Atomic Habits",
+        "author": "James Clear",
+        "year": 1945,
+        "genre": "self-help",
+        "read": true
+    }
+]
